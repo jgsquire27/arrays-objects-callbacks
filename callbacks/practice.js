@@ -112,7 +112,7 @@ contains(names, 'Colt', function(result){
 
 
 
-////////// PROBLEM 5 //////////
+////////// PROBLEM 5 /////////////
 
 /*
   Write a function called uniq that takes in an array and a callback function.
